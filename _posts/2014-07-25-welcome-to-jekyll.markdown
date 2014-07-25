@@ -13,7 +13,7 @@ author:
   name: Foo Bar
   twitter: twitter
   bio: Lorem ipsum dolor sit amet.
-  image: ks.png
+  image: kiran.jpg
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
