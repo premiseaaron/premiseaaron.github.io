@@ -4,8 +4,8 @@ email: contact@premise.com
 description: "Updates and news from Premise."
 baseurl: ""
 url: "http://blog.premise.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: premisedata
+
 
 # Theme settings
 subtitle:     "Product news, stories, and occasional updates."
@@ -13,10 +13,9 @@ cover_image:  blog-cover.jpg
 logo:         logo.png
 
 # Company information
-company:      Incorporated
-facebook:     facebook
-twitter:      twitter
-gplus:        '111'
+company:      Premise
+facebook:     https://www.facebook.com/premisedata
+twitter:      https://twitter.com/premisedata
 about_link:   /about/
 
 # Product Information
