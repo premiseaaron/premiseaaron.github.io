@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Premise"
+title:  "Mobile Devices and The Inversion of Control"
 date:   2014-03-12 23:39:16
 categories: News
 
