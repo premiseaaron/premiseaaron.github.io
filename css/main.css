@@ -2238,7 +2238,7 @@ a {
   .site-nav .caret {
     opacity: 0.2; }
   .site-nav .brand img {
-    height: 25px;
+    height: 20px;
     margin-right: 10px;
     margin-top: -2px; }
   .site-nav .dropdown {
@@ -2256,6 +2256,9 @@ a {
       display: inline-block; }
       .site-nav #navigation a:hover {
         color: #2077b2; }
+    .site-nav #navigation span {
+      vertical-align: -2px;
+      font-size: 20px; }
     .site-nav #navigation > a, .site-nav #navigation .dropdown-toggle {
       color: #444;
       border: 0;
