@@ -1,8 +1,15 @@
 ---
 layout: post
 title:  "Introducing Premise"
-date:   2014-07-25 23:39:16
-categories: jekyll update
+date:   2013-10-15 23:39:16
+categories: News
+
+author:
+  name: David Soloff
+  twitter: davidsoloff
+  bio: CEO and Cofounder of Premise
+  image: david.jpg
+
 ---
 
 
