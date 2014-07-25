@@ -30,10 +30,10 @@ shortname:  false
 
 # Sharing settings
 sharing:
-twitter:    false
-facebook:   false
-gplus:      false
-hn:         false
+  twitter:    true
+  facebook:   true
+  gplus:      true
+  hn:         true
 
 # Pagination
 paginate: 10
