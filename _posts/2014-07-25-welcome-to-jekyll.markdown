@@ -3,6 +3,17 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-07-25 23:39:16
 categories: jekyll update
+
+subtitle: "What's in the box"
+cover_image: blog-cover.jpg
+
+excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
+
+author:
+  name: Foo Bar
+  twitter: twitter
+  bio: Lorem ipsum dolor sit amet.
+  image: ks.png
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
