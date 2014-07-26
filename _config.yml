@@ -16,11 +16,11 @@ logo:         logo.jpg
 company:      Premise
 facebook:     premisedata
 twitter:      premisedata
-about_link:   /about/
+about_link:   http://www.premise.com/ourdata.html
 
 # Product Information
-product_link: http://google.com/
-tagline:      "Tagline"
+product_link: http://premise.com/
+tagline:      
 
 # Comments
 disqus:

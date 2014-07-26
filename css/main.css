@@ -2213,11 +2213,12 @@ a {
 .btn-outline {
   background: none;
   border-radius: 4px;
-  font-size: 0.8em;
-  border: 2px solid #2077b2;
+  font-size: 0.75em;
+  border: 1px solid #ccc;
   border-radius: 3px;
-  color: #1c699c;
-  transition: none; }
+  color: #2a2d33;
+  transition: none;
+  letter-spacing: 0.5px; }
   .btn-outline:hover {
     border: 2px solid #1c699c;
     color: #185a87;
@@ -2258,13 +2259,15 @@ a {
         color: #2077b2; }
     .site-nav #navigation span {
       vertical-align: -2px;
-      font-size: 20px; }
+      font-size: 20px;
+      color: #444; }
     .site-nav #navigation > a, .site-nav #navigation .dropdown-toggle {
-      color: #444;
+      color: #a1a2a4;
       border: 0;
       font-weight: 600;
-      font-size: 15px;
-      display: inline-block; }
+      font-size: 12px;
+      display: inline-block;
+      text-transform: uppercase; }
     .site-nav #navigation .dropdown-toggle {
       padding: 6px 0.5em;
       text-align: center; }
