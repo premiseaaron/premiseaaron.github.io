@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instability in Asian Inflation"
-date:   2013-11-10 23:39:16
+date:   2013-11-10
 categories: Data Science
 
 author:

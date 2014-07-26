@@ -8,23 +8,20 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="/images/{{ site.logo }}"/>
- <!--    <link href="{{ site_url }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.title }}" /> -->
     <meta name="title" content="{% if page.title %}{{ page.title }} {% else %}{{ site.title }}{% endif %}">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     {% if page.site.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.gplus }}">{% endif %} 
-    {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}  
+    {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}
 </head>
 <body>
 
 <section class="site-nav">
     <header>
         <nav id="navigation">
-            <a class="brand" href="/">
+            <a class="brand" href="http://www.premise.com/">
                 <img src="/images/{{ site.logo }}" alt="Inc"> <span>PREMISE</span>
             </a>
             <a href="http://www.premise.com/" class="home">Home</a>
-<!--             {% if site.product_link %}<a href="{{ site.product_link }}">Product</a>{% endif %}
-            {% if site.about_link %}<a href="{{ site.about_link }}">About</a>{% endif %} -->
             <a href="http://www.premise.com/explore.html">Explore</a>
             <a href="http://www.premise.com/solutions.html">Solutions</a>
             <a href="/">Blog</a>
@@ -56,7 +53,7 @@
             {% endif %}
             {% if site.facebook %}
             <a href="http://facebook.com/{{ site.facebook }}" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
-            {% endif %}    
+            {% endif %}
             <a href="/feed.xml" title="RSS Feed">
                 <i class="icon icon-rss black"></i>
             </a>

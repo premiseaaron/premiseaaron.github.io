@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Premise"
-date:   2013-10-15 23:39:16
+date:   2013-10-15
 categories: News
 
 author:
@@ -11,7 +11,6 @@ author:
   image: david.jpg
 
 ---
-
 
 Multinational corporations, governments, NGOs, Central Banks, trading houses… every year these organizations spend billions of dollars in pursuit of econometric and human development data and statistics. The reality is that the quantity of information gathered is rather small, the quality can vary, and the latency is very high. Is it any wonder that conditions on the ground zig while headline indicators zag? Who can fault policy makers or consumer good companies or trading houses or relief agencies for basing decisions on out-of-date and lumpy data?
 
