@@ -7,7 +7,7 @@ categories: Blog
 author:
   name: Allen Tran
   twitter:
-  bio:
+  bio: Data Scientist
   image: allen.jpg
 
 ---
