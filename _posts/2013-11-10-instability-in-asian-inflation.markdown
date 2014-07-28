@@ -5,7 +5,7 @@ date:   2013-11-10
 categories: Data Science
 
 author:
-  name: Kira Gollakota
+  name: Kiran Gollakota
   twitter: kiragollakota
   bio: Enterprise PM
   image: kiran.jpg
