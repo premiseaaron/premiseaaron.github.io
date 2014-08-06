@@ -7,7 +7,7 @@ categories: Data Science
 author:
   name: Nicholai Lidow
   bio: Data Science
-  twitter:nlidow
+  twitter: nlidow
   image: nicholai.jpg
 
 ---
