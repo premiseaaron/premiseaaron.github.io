@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Holiday Feasts in Nigeria"
+cover_image: /images/img/4t4sts4t.jpg
 date:   2014-08-06
 categories: Data Science
 
