@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Politics, Storage, and Food Prices in India"
-cover_image: ../images/img/xx.jpg
 date:   2014-09-15
 categories: Data Science
 
