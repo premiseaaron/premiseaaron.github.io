@@ -27,8 +27,8 @@ Between the beginning of March and the end of August, food prices in India rose 
 Figure 2. Rising prices in India
 ![Figure 2. Rising prices in India](/images/img/s4rs4t.png)
 
-The relative stability of grains prices is puzzling, since the grain-producing regions were the hardest hit by the drought. Indian politics, however, offers an explanation. At the onset of the crisis, Prime Minister Narendra Modi announced a program to stabilize grains prices by offloading 5 million tonnes of rice, about a quarter of the country’s strategic stockpiles, and cracking down on food hoarders. This policy succeeded in keeping the price of vital grains in line with overall inflation. Vegetables, however, are too perishable to be stockpiled, and prices reacted strongly to the intensifying drought.
-![Bloomberg Article](/images/img/w4tgs4t.png)
+The relative stability of grains prices is puzzling, since the grain-producing regions were the hardest hit by the drought. Indian politics, however, offers an explanation. At the onset of the crisis, Prime Minister Narendra Modi [http://www.bloomberg.com/news/2014-06-25/crop-sowing-delayed-by-weak-india-monsoon-stoking-prices.html](announced a program to stabilize grains prices) by offloading 5 million tonnes of rice, about a quarter of the country’s strategic stockpiles, and cracking down on food hoarders. This policy succeeded in keeping the price of vital grains in line with overall inflation. Vegetables, however, are too perishable to be stockpiled, and prices reacted strongly to the intensifying drought.
+
 
 The picture becomes more interesting when we look at how food prices vary across India’s major cities. Figure 3 looks at the average ETa Anomaly value within 400km of three of India’s cities. Chennai, in India’s southeast was hit early and hard by the drought. Mumbai in the west and Kolkata in the east each experienced a later onset but more severe change in their ETa levels.
 
