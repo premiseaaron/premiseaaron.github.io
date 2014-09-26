@@ -22,14 +22,14 @@ Unlike Big Macs, Coke is tradeable and consumed across a much wider range of inc
 To construct the index, we used data and observations of Coke available for purchase in stores in the US, China, Argentina and Brazil. Since Coke comes in a variety of sizes and shapes, we adjusted each observed price for bulk discounts and package type so that the data reflects prices of 1.5 liter bottles of Coca-Cola. (FYI, you save 33% on average if you purchase a Coca-Cola product twice the volume.) 
 
 Figure 1: Price of Coca-Cola (1.25L) in USD
-![Figure 1: Price of Coca-Cola (1.25L) in USD](/images/img/xxx.jpg)
+![Figure 1: Price of Coca-Cola (1.25L) in USD](/images/img/5tsete5ts4e.png)
 
 Two things stand out: first, the price in China is absurdly cheap, roughly half the price compared to the US and Brazil. Second, the price in Argentina was much higher than in the US but rapidly fell during the first quarter of 2014.  The rapid fall is consistent with the start of the price accord in Argentina which froze the price of 1.5 liter bottles of Coke in major supermarkets to 12.50 Argentinian Pesos ($1.57 in USD).  Interestingly, this freeze appears effective only for a couple of months with continuing inflation in Coca-Cola products of other non price controlled sizes.  Prices in Brazil were much more stable, although prices begin an upward trend that coincides with the beginning of the 2014 World Cup.
 
 Like the Big Mac, the price of Coke sold in a supermarket reflects the cost of a wide range of inputs: sugar, rent, manufacturing labor and the labor of retail workers. If we assume that the price of Coke is broadly representative of the price level, then we can infer likely movements of exchange rates. Countries with a relatively high price level will try to import goods from other countries with cheaper goods, weakening the domestic exchange rate.
 
 Figure 3: Implied valuations of FX rates
-![Figure 3: Implied valuations of FX rates](/images/img/xxx.jpg)
+![Figure 3: Implied valuations of FX rates](/images/img/w434g4t43.png)
 
 The implied valuation of the Chinese Renminbi (RMB) is consistent with the US Treasury’s [statement](http://www.treasury.gov/resource-center/international/exchange-rate-policies/Documents/2013-10-30_FULL%20FX%20REPORT_FINAL.pdf) that the RMB is “significantly undervalued.”  China is unique among the countries here as their exchange rate is more or less fixed, implying that the undervaluation will not resolve itself naturally via market forces.  Regardless, the consistent 50% undervaluation illustrates the extent to which the RMB would appreciate under a floating regime. 
 
