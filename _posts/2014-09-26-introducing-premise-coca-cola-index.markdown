@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Premise’s Coca-Cola Index"
-date:   2013-09-18
+date:   2014-09-26
 cover_image: ../images/img/cola.jpg
 categories: Data Science
 
