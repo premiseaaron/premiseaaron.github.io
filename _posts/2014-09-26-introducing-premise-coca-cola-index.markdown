@@ -8,7 +8,7 @@ categories: Data Science
 author:
   name: Allen Tran
   bio: Data Science
-  twitter: nlidow
+  twitter: 
   image: allen.jpg
 
 ---
