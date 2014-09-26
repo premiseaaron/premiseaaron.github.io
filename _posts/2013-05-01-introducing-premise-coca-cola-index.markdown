@@ -28,8 +28,8 @@ Two things stand out: first, the price in China is absurdly cheap, roughly half 
 
 Like the Big Mac, the price of Coke sold in a supermarket reflects the cost of a wide range of inputs: sugar, rent, manufacturing labor and the labor of retail workers. If we assume that the price of Coke is broadly representative of the price level, then we can infer likely movements of exchange rates. Countries with a relatively high price level will try to import goods from other countries with cheaper goods, weakening the domestic exchange rate.
 
-Figure 3: Implied valuations of FX rates
-![Figure 3: Implied valuations of FX rates](/images/img/w434g4t43.png)
+Figure 2: Implied valuations of FX rates
+![Figure 2: Implied valuations of FX rates](/images/img/w434g4t43.png)
 
 The implied valuation of the Chinese Renminbi (RMB) is consistent with the US Treasury’s [statement](http://www.treasury.gov/resource-center/international/exchange-rate-policies/Documents/2013-10-30_FULL%20FX%20REPORT_FINAL.pdf) that the RMB is “significantly undervalued.”  China is unique among the countries here as their exchange rate is more or less fixed, implying that the undervaluation will not resolve itself naturally via market forces.  Regardless, the consistent 50% undervaluation illustrates the extent to which the RMB would appreciate under a floating regime. 
 
