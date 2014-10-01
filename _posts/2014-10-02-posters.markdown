@@ -17,13 +17,13 @@ The value of Premise’s network goes far beyond tracking prices. Rather, the ne
  
 To illustrate the power of this user-driven data, consider Premise’s network in Brazil, where users have been submitting geo-tagged images of political posters and political advertisements in the run-up to the October 5 elections. At the moment, we are tracking the location and spread of political posters for all candidates and political parties across 8 major cities around the country. 
 
-As we began collecting data, we noticed almost immediately a higher concentration of political posters in Belo Horizonte’s city center than in almost any other region. As reported by local press, the two largest parties, PT and PSDB, have been waging a “poster war” in Belo Horizonte, Brazil’s third largest city.
+As we began collecting data, we noticed almost immediately a higher concentration of political posters in Belo Horizonte’s city center than in almost any other region. As [reported](http://www1.folha.uol.com.br/poder/2014/10/1525488-tucanos-e-petistas-travam-guerra-de-cartazes-em-bh.shtml) by local press, the two largest parties, PT and PSDB, have been waging a “poster war” in Belo Horizonte, Brazil’s third largest city.
 
-Approximately 97% of all the posters Premise has observed in this area are related to the two historically dominant parties. 49.2% of our poster observations feature incumbent Dilma Rousseff and her political party (“Partido dos Trabalhadores”), while 48.3% feature Aécio Neves and his PSDB party (“Partido da Social Democracia Brasileira”). This visibility, however, does not match latest poll results, according to which Mr. Neves is firmly in third place. The race has been upset by the rapid rise of Marina Silva, who became the PSB’s (“Partido Socialista Brasileiro”) primary candidate after the untimely death of her running mate Eduardo Campos. Mr. Campos was in third place prior to his death, and the party scrambled to put forward Ms. Silva as the main candidate in the aftermath. Now unlike her success in the polls, posters of Ms. Silva and the PSB make up only 2.5% of those observed in Belo Horizonte. When generic party-related posters are removed and we focus just on candidate posters, 48.5% are for Ms. Rousseff, 46.5% are for Mr. Neves, and 5.0% are for Ms. Silva. 
+Approximately 97% of all the posters Premise has observed in this area are related to the two historically dominant parties. 49.2% of our poster observations feature incumbent Dilma Rousseff and her political party (*“Partido dos Trabalhadores”*), while 48.3% feature Aécio Neves and his PSDB party (*“Partido da Social Democracia Brasileira”*). This visibility, however, [does not match](http://online.wsj.com/articles/polls-show-brazilian-president-rousseff-winning-re-election-1412116419) latest poll results, according to which Mr. Neves is firmly in third place. The race has been upset by the rapid rise of Marina Silva, who became the PSB’s (*“Partido Socialista Brasileiro”*) primary candidate after the [untimely death](http://www.bbc.com/news/world-latin-america-28778604) of her running mate Eduardo Campos. Mr. Campos was in third place prior to his death, and the party scrambled to put forward Ms. Silva as the main candidate in the aftermath. Now unlike her success in the polls, posters of Ms. Silva and the PSB make up only 2.5% of those observed in Belo Horizonte. When generic party-related posters are removed and we focus just on candidate posters, 48.5% are for Ms. Rousseff, 46.5% are for Mr. Neves, and 5.0% are for Ms. Silva. 
 
 
 
-Observations in Belo Horizonte city center. Markers indicate blocks from where poster observations have been submitted.
+*Observations in Belo Horizonte city center. Markers indicate blocks from where poster observations have been submitted.*
 ![Observations in Belo Horizonte city center.](/images/img/f34g34gewsg.png)
 
 
@@ -31,18 +31,18 @@ What’s to explain the gulf in visibility between Ms. Silva and the other two l
 
 The leader of our organic network in the country, Luís Garcia, offers important local insight on the matter:
 
-“It's worth noting how the announced budgets of all top three campaigns are playing a big part in their visibility and street presence. Ms. Rousseff and Mr. Neves have forecast expenses of around BRL300 million each, while Ms. Silva expects to be elected under a budget of BRL150 million. 
+*“It's worth noting how the announced budgets of all top three campaigns are playing a big part in their visibility and street presence. Ms. Rousseff and Mr. Neves have forecast expenses of around BRL300 million each, while Ms. Silva expects to be elected under a budget of BRL150 million.*
 
-Those differences are a very sensitive subject in Brazil, a place where campaign financing and corruption have run rampant many times in the past. PT and PSDB, Ms. Rousseff and Mr. Neves' parties, are known as two of the most traditional and wealthy political parties in Brazil. Ms. Silva's PSB, on the other hand, lacks nationwide presence having currently elected governors in only six out of the 26 constituent states. In Brazil, the number of elected representatives strongly determines the amount of financing, therefore the budgets of all campaigns, including presidential.
+*Those differences are a very sensitive subject in Brazil, a place where campaign financing and corruption have run rampant many times in the past. PT and PSDB, Ms. Rousseff and Mr. Neves' parties, are known as two of the most traditional and wealthy political parties in Brazil. Ms. Silva's PSB, on the other hand, lacks nationwide presence having currently elected governors in only six out of the 26 constituent states. In Brazil, the number of elected representatives strongly determines the amount of financing, therefore the budgets of all campaigns, including presidential.*
 
-The transition from Mr. Campos to Ms. Silva was certainly conducted in a rush because of Mr. Campos' sudden death in a plane accident in August. They had to throw away tons of posters with Campos' name and face and relaunch their street material using Ms. Silva. According to Brazilian newspapers, all material containing Mr. Campos' image has been destroyed after his demise.”
+*The transition from Mr. Campos to Ms. Silva was certainly conducted in a rush because of Mr. Campos' sudden death in a plane accident in August. They had to throw away tons of posters with Campos' name and face and relaunch their street material using Ms. Silva. According to Brazilian newspapers, all material containing Mr. Campos' image has been destroyed after his demise.”*
 
 Clearly PSB electioneering strategy has differed from that of PT and PSDB in Belo Horizonte, due primarily to budget and Ms. Silva’s late entry into the race. Though Ms. Silva has benefitted from the fact that visibility alone has not pushed up Mr. Neves’ polling numbers. 
 
 While Ms. Rousseff is currently a frontrunner in the tight race between her and Ms. Silva, her approval ratings have fallen since her election in 2010 and if she fails to win more than 50% of the vote in the first round of elections on October 5, polls are undecided on whether she could beat Ms. Silva in a run-off second round. We have witnessed examples of this discontent in the defacement of her posters, something we have not observed in the cases of Mr. Neves nor Ms. Silva:
 
 
-Example observations of defaced posters around the country.
+*Example observations of defaced posters around the country.*
 ![Example observations of defaced posters around the country.](/images/img/egsegs.jpg)
 
 When mapped, Premise’s images tell an interesting, and evolving, story of how the political events unfold within cities -- over time and at district or even neighborhood levels. And as shown in individual cases, we can see graffiti and otherwise vandalized election materials that give us insight into hyper-local political sentiment.
