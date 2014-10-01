@@ -2,7 +2,7 @@
 layout: post
 title:  "Political Poster Wars in Brazil's Presidential Election"
 date:   2014-10-02
-cover_image: ../images/img/cola.jpg
+cover_image: ../images/img/brazilposters.jpg
 categories: Data Science
 
 author:
