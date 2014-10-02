@@ -43,7 +43,7 @@ While Ms. Rousseff is currently a frontrunner in the tight race between her and 
 
 
 *Example observations of defaced posters around the country.*
-![Example observations of defaced posters around the country.](/images/img/ts4ts45y54y5.jpg)
+[![Example observations of defaced posters around the country.](/images/img/ts4ts45y54y5.jpg)](http://blog.premise.com/images/img/ts4ts45y54y5.jpg)
 
 When mapped, Premise’s images tell an interesting, and evolving, story of how the political events unfold within cities -- over time and at district or even neighborhood levels. And as shown in individual cases, we can see graffiti and otherwise vandalized election materials that give us insight into hyper-local political sentiment.
 
