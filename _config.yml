@@ -45,10 +45,8 @@ permalink: pretty
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
-#        
-analytics :
-  provider : google
-  google : 
-      tracking_id : 'UA-42877362-6'
-  getclicky :
-    site_id :
+
+analytics:
+  provider: google
+  google: 
+      tracking_id: 'UA-42877362-6'
